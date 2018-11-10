@@ -1,6 +1,3 @@
-.gradle
-build
-.settings
-*.iml
-local.properties
-.idea
+
+/build/
+/tess2.iml
